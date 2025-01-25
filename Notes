@@ -1,0 +1,10 @@
+1. create a new repo and go to code spaces. => create a new code space
+
+2. Container: open Command palette from View in menu and type container. select node & JS.
+this is a config file which is used to provide default node & JS to us. 
+We can use the same process to get python & other languages as well.
+
+
+3. Save : go to source control => select files which are changed => enter description => commit => go to more options => push
+
+4. Stop code space : code spaces are available for only 120 per month. so after use we need to stop the useage by stopping it manually.
