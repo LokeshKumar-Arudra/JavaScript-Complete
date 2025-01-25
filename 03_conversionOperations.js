@@ -24,7 +24,10 @@ let abc = -1
 
 
 //String: 
-
+let num = 18
+let strNum = String(num)
+// console.log(strNum); 18
+// console.log(typeof strNum); string
 
 
 
